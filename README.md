@@ -1,6 +1,7 @@
 # flutter_facebook_story
 
-A new Flutter project.
+![story](https://user-images.githubusercontent.com/71002261/133805266-32e7247d-c18d-47bc-8b85-389a426b5e61.gif)
+
 
 ## Getting Started
 
